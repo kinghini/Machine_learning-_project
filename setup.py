@@ -5,7 +5,7 @@ from typing import List
 #declaring variables for setup 
 
 PROJECT_NAME="housing-predictor",
-VERSION="0.0.1"
+VERSION="0.0.2"
 AUTHOR="NimmyMathew"
 DESCRIPTION="This is first fsds machine learning project housing "
 #PACKAGES=["housing"]
