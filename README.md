@@ -45,7 +45,7 @@ git push origin main
 "''''
 To setup CI/CD pipeline we need 3 informations
     1.HEROKU_EMAIL- nimmymaths91@gmail.com
-    2.API KEY- 9bd90cfb-1110-441d-8b54-5a0f67ce4040
+    2.API KEY- abc
     3.Heroku application name-ml-regressionapplnimmy
 
     Build docker image
